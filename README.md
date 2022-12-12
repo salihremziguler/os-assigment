@@ -1,2 +1,2 @@
-# os-assigment
-operating class assigment
+# 💻 os-assigment
+class project : operating systems
