@@ -38,7 +38,7 @@ public class main {
              int prosseszamani = new Integer(a[2]);
            
              
-             
+             //Gercek zamanli ise
              if(oncelik==0) {
             	 gercek.ekle(variszamani,oncelik,prosseszamani);
              }
